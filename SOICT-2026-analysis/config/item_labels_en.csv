@@ -1,0 +1,72 @@
+item,english_description
+ENP01,I need English to communicate with other people.
+ENP02,I need English to access up-to-date information.
+ENP03,I need English for my future career.
+ENP04,I need English to access scholarship opportunities.
+ENP05,I need English to complete coursework in my field of study.
+ENP06,I need English to meet the language requirements of my academic program.
+PTED01,I listen to and understand lectures in my field that are delivered in English.
+PTED02,I read and understand materials in my field that are written in English.
+PTED03,I use English to answer questions in written examinations for courses in my field.
+PTED04,I use English to discuss topics in my field of study.
+PTED05,I use English to answer questions in oral examinations.
+PTED06,I use English to complete writing assignments for courses in my field.
+MEU01,I read materials in my field of study in English.
+MEU02,I listen to learning content in my field of study in English.
+MEU03,I use English to complete written assignments for courses in my field.
+MEU04,I summarize information from English materials for coursework in my field.
+MEU05,I use English to discuss topics in my field of study.
+REH01,I repeat the material I am learning aloud to remember it.
+REH02,I reread learning materials several times.
+REH03,I remember keywords in English materials to recall important ideas.
+ELA01,I connect new material with what I already know.
+ELA02,I summarize the main ideas of the English materials I have studied.
+ELA03,I combine information from several learning sources.
+ORG01,I identify important ideas in the material I am studying.
+ORG02,I make an outline to organize the material I am studying.
+ORG03,I use tables or diagrams to organize the material I am studying.
+CRT01,I evaluate how convincing the English-language information I encounter is.
+CRT02,I examine evidence supporting an explanation or conclusion.
+CRT03,I consider alternative explanations for a claim or conclusion.
+MSR01,I set specific goals before each independent English study session.
+MSR02,I ask myself questions to check my understanding while studying.
+MSR03,I identify what I do not fully understand while studying English independently.
+MSR04,I change my study method when the current method does not work.
+TSEM01,I reserve specific times during the week for independent English study.
+TSEM02,I maintain the independent English study schedule I set.
+TSEM03,I choose a place to study English that limits distractions.
+VLS01,I use new English words in sentences to remember their meanings and usage.
+VLS02,I say or write new English words repeatedly to remember them.
+VLS03,I use flashcards to remember new English words.
+VLS04,I practice pronouncing new English words to remember their pronunciation.
+VLS05,I review English words I have learned at different times.
+VLS06,I try to infer the meaning of unfamiliar English words.
+DEL01,I use digital tools or resources to learn more about English.
+DEL02,I use technology to sustain English study toward my goals.
+DEL03,I use technology to create opportunities to practice English outside class.
+DEL04,I actively search online for English materials to support my studies.
+DEL05,I use learning applications to practice English topics I need to improve.
+DEL06,I select digital tools that fit my independent English study goals.
+DEL07,I ask an AI tool to explain something I do not understand while studying English independently.
+LPSN01,I need the application to clarify the objective of each learning task.
+LPSN02,I need the application to show my learning progress.
+LPSN03,I need the application to show statistics on my learning results.
+LPSN04,I need the application to order tasks from suitable for my current ability to more difficult.
+LPSN05,I need the application to offer tasks that let me learn with others toward a shared goal.
+SFN01,I need the application to suggest how to continue a task when I encounter difficulties.
+SFN02,I need the application to provide examples when I do not understand how to perform a task.
+SFN03,I need the application to indicate which parts of my response do not meet the requirements.
+SFN04,I need the application to explain how to revise an inadequate response after I finish a task.
+TECN01,I need the application to select learning content that matches my learning goals.
+TECN02,I need the application to present content in a way that matches my understanding.
+TECN03,I need the application to suggest the next task after I complete a learning activity.
+TECN04,I need the application to explain why it makes a learning suggestion.
+TECN05,I need control over which learning history information the application may use.
+TECN06,I need the application to suggest review times based on my learning history.
+PU01,I believe the application could help me complete independent English study tasks faster.
+PU02,I believe the application could improve the quality of my independent English study work.
+PU03,I believe the application could help me complete more study activities in the same time.
+PU04,I believe the application could make my independent English study more effective.
+BI01,I intend to use the application for independent English study in the next few months.
+BI02,I expect to use the application for independent English study when it becomes available in the next few months.
+BI03,I plan to use the application to support independent English study in the next few months.
